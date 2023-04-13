@@ -17,7 +17,7 @@ with open(pathlib.Path(__file__).parent.joinpath("description.md")) as file:
 
 app = fastapi.FastAPI(
     debug=__debug__,
-    title="Balocco",
+    title="Sgaraser",
     description=description,
     version="0.1",
 )

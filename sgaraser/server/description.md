@@ -1,1 +1,1 @@
-> An open-source backend server for giveaways.
+> An open-source trackmania records tracker for small communities.
